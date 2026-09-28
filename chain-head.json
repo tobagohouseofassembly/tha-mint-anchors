@@ -1,13 +1,13 @@
 {
-  "headSeq": 4831,
-  "headHash": "5f3518d671e1c5a2991e2a35705b644746c987454fbfd2ced2914058ac66e7e6",
-  "entries": 4831,
+  "headSeq": 4863,
+  "headHash": "922d3fed2ecf6918d6f04be873574e82dcf63b1b8eb69de2b5279823e3f31913",
+  "entries": 4863,
   "chainOk": true,
-  "anchoredAt": "2026-09-27T07:20:31.665Z",
+  "anchoredAt": "2026-09-28T07:20:31.156Z",
   "signatureHead": {
-    "headSeq": 759,
-    "headHash": "f6fb50e76bdea5762db10ec51ad032b5aefec919dbf8243af9d1b31e71c55ab7",
-    "entries": 734,
+    "headSeq": 764,
+    "headHash": "32395a126e062ec19a6a30676847219b52bc972b90c4786e7290a135a66009a1",
+    "entries": 739,
     "chainOk": true
   },
   "keyManifest": {
@@ -15,5 +15,5 @@
     "rootVerified": true,
     "posture": "root-signed"
   },
-  "imprint": "5f3518d671e1c5a2991e2a35705b644746c987454fbfd2ced2914058ac66e7e6|f6fb50e76bdea5762db10ec51ad032b5aefec919dbf8243af9d1b31e71c55ab7|0afe47eeeaa129eec19be64dbd7747f098ee730c45ec06a22612131782f9d14e"
+  "imprint": "922d3fed2ecf6918d6f04be873574e82dcf63b1b8eb69de2b5279823e3f31913|32395a126e062ec19a6a30676847219b52bc972b90c4786e7290a135a66009a1|0afe47eeeaa129eec19be64dbd7747f098ee730c45ec06a22612131782f9d14e"
 }
