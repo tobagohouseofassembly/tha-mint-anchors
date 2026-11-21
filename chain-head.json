@@ -1,9 +1,9 @@
 {
   "headSeq": null,
   "headHash": null,
-  "entries": 14761,
+  "entries": 14768,
   "chainOk": false,
-  "anchoredAt": "2026-11-21T01:20:40.288Z",
+  "anchoredAt": "2026-11-21T02:20:40.577Z",
   "signatureHead": {
     "headSeq": 14991,
     "headHash": "4c4982cac6da34be5fb699c97ee69bdf26c27dd90432938ef405c0e066dca006",
