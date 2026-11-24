@@ -1,0 +1,19 @@
+{
+  "headSeq": null,
+  "headHash": null,
+  "entries": 15297,
+  "chainOk": false,
+  "anchoredAt": "2026-11-24T16:20:41.679Z",
+  "signatureHead": {
+    "headSeq": 15338,
+    "headHash": "201e4b6d73a361aab8e05e801e172c2040250242fad9bdae0757e4358b921a7a",
+    "entries": 14011,
+    "chainOk": true
+  },
+  "keyManifest": {
+    "hash": "0afe47eeeaa129eec19be64dbd7747f098ee730c45ec06a22612131782f9d14e",
+    "rootVerified": true,
+    "posture": "root-signed"
+  },
+  "imprint": "201e4b6d73a361aab8e05e801e172c2040250242fad9bdae0757e4358b921a7a|0afe47eeeaa129eec19be64dbd7747f098ee730c45ec06a22612131782f9d14e"
+}
