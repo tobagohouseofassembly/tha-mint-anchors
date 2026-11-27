@@ -1,13 +1,13 @@
 {
   "headSeq": null,
   "headHash": null,
-  "entries": 16183,
+  "entries": 16244,
   "chainOk": false,
-  "anchoredAt": "2026-11-27T16:20:38.515Z",
+  "anchoredAt": "2026-11-27T17:20:40.812Z",
   "signatureHead": {
-    "headSeq": 16040,
-    "headHash": "e438ffd41393db5d107295a99e873084f13259bad2b71a3191a3930ca3b6ad41",
-    "entries": 14707,
+    "headSeq": 16092,
+    "headHash": "796f01284fd8389d4b9dc6486cad56e48f84c74af5940f067c2c4f46a9452c28",
+    "entries": 14759,
     "chainOk": true
   },
   "keyManifest": {
@@ -15,5 +15,5 @@
     "rootVerified": true,
     "posture": "root-signed"
   },
-  "imprint": "e438ffd41393db5d107295a99e873084f13259bad2b71a3191a3930ca3b6ad41|0afe47eeeaa129eec19be64dbd7747f098ee730c45ec06a22612131782f9d14e"
+  "imprint": "796f01284fd8389d4b9dc6486cad56e48f84c74af5940f067c2c4f46a9452c28|0afe47eeeaa129eec19be64dbd7747f098ee730c45ec06a22612131782f9d14e"
 }
